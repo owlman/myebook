@@ -42,6 +42,7 @@
     - [[Effective-STL-CN-Edition.pdf]]
     - [[BOOST_C.pdf]]
     - [[boost-graph-library.pdf]]
+    - [[C 程序设计语言(第2版-新版).pdf]]
     - [[C和指针.pdf]]
     - [[C99标准.pdf]]
   - HTML&CSS
