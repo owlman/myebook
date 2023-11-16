@@ -17,7 +17,7 @@
   - [[linux常用指令20条.pdf]]
   - [[Linux-UNIX系统编程手册（上册）.pdf]]
   - [[Linux-UNIX系统编程手册（下册）.pdf]]
-  - [[Linux设备驱动程序(中文版第三版完美编辑带二级书签).pdf]]
+  - [[Linux设备驱动程序(中文版第3版).pdf]]
   - [[vbird-linux-basic.pdf]]
 
 - 服务端编程：
@@ -42,7 +42,7 @@
     - [[Effective-STL-CN-Edition.pdf]]
     - [[BOOST_C.pdf]]
     - [[boost-graph-library.pdf]]
-    - [[C 程序设计语言(第2版-新版).pdf]]
+    - [[C程序设计语言(第2版·新版).pdf]]
     - [[C和指针.pdf]]
     - [[C99标准.pdf]]
   - HTML&CSS
@@ -78,7 +78,7 @@
     - [[The Swift Programming Language.pdf]]
 
 - 技术写作
-  - [[LaTeX入门（刘海洋）_.pdf]]
+  - [[LaTeX入门（刘海洋）.pdf]]
   - [[LaTeX教程.pdf]]
   - [[ctex手册.pdf]]
   - [[MLA論文格式.pdf]]
