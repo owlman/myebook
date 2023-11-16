@@ -39,6 +39,7 @@
     - [[C++实战笔记.pdf]]
     - [[C++98标准.pdf]]
     - [[C++17标准.pdf]]
+    - [[STL源码剖析.pdf]]
     - [[Effective-STL-CN-Edition.pdf]]
     - [[BOOST_C.pdf]]
     - [[boost-graph-library.pdf]]
